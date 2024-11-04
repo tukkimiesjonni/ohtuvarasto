@@ -4,3 +4,7 @@
 # Ignore __pycache__ and .pytest_cache
 __pycache__
 .pytest_cache
+
+# Ignore .coverage and htmlcov
+.coverage
+htmlcov
