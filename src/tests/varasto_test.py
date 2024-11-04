@@ -90,3 +90,5 @@ class TestVarasto(unittest.TestCase):
         self.varasto = Varasto(10, -2)
 
         self.assertAlmostEqual(self.varasto.saldo, 0)
+
+# Test for codecov...
