@@ -1,0 +1,6 @@
+# Ignore all .tmp files
+*.tmp
+
+# Ignore __pycache__ and .pytest_cache
+__pycache__
+.pytest_cache
