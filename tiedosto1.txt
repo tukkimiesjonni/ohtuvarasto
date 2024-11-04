@@ -1,3 +1,0 @@
-First edit.
-Staging are edit.
-git add -p test.
